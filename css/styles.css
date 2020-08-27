@@ -111,7 +111,7 @@ a:hover {
     width: 130px;
     position: absolute;
     left: 200px;
-    bottom: 100px;
+    bottom: 0;
 }
 
 .profile-picture {
